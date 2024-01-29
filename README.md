@@ -35,9 +35,8 @@ Make sure to run the script in an environment with a camera available.
 The attendance log will be stored in a CSV file with the format <code>YY-MM-DD.csv</code>.
 </ul>
 
-<h2>License</h2>
 
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
+
 
 </body>
 </html>
