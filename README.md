@@ -24,7 +24,7 @@ python attendance_system.py
 Follow the on-screen prompts to input the number of students and their names along with the corresponding image addresses
 The script will start capturing video from the default camera and recognize faces. The recognized students' names will be displayed on the video feed, and attendance will be logged in a CSV file named with the current date.</li>
 
-    <li>Press 'q' to exit the program.</li>
+Press 'q' to exit the program.
 </ol>
 
 <h2>Note</h2>
