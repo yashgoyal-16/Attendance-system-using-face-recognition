@@ -5,7 +5,7 @@ import cv2
 from datetime import datetime
 
 video = cv2.VideoCapture(0)
-a = int(input('e: '))
+a = int(input('Enter number of students : '))
 students = []
 students_encoding = []
 student_name = []
